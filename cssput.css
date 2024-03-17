@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+}
+body {
+    background-image: linear-gradient(#E8DAEF, #EC7063);
+}
+ table, th, td {
+     border: 1px solid pink;
+     border-collapse: collapse;
+ }
+th, td {
+    padding: 7px;
+}
